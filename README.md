@@ -1,16 +1,16 @@
-### Hi there 👋
+### Seja Bem-vindo ao meu perfil🥇
 
-<!--
-**profzequi/profzequi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Ezequiel Franco de Lima
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+- ### Você pode entrar em contato comigo :mailbox
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ezefrancolima@gmail.com
+
+!{}(![image](https://github.com/profzequi/profzequi/assets/161392786/ca451c83-5e47-4ee0-aef3-09c1e35c5c48)
+)
+
+
+
